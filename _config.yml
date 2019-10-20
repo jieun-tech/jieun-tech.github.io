@@ -12,9 +12,9 @@ urls:
 #    - text: Shop
 #      url : /shop/
     - text: About Me
-      url: /about_me
+      url: /about
     - text: Contact Me
-      url : /contact_me
+      url : /contact
 #    - text: Styleguide
 #      url: /styleguide/
     
