@@ -1,5 +1,5 @@
 title: Jieun Lee
-subtitle: Web Developer student
+subtitle: Web Develop student
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a Jekyll Theme Built For Developers
 
@@ -23,28 +23,28 @@ urls:
 
 author_logo: profile.png
 author: Jieun Lee
-author_bio: 안녕
+author_bio: 안녕하세요. 웹개발자를 꿈꾸는 학생입니다.
 author_email: "jieun.tech@gmail.com"
 author_location: Korea
 author_website_url: "https://jieun-tech.github.io"
 
-author_work_experiences: 
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
+#author_work_experiences: 
+#            - company_name: Google
+#              company_logo: google.png
+#              company_url: https://google.com
+#              designation: Software Engineer
+#              description: Worked on various Google Products
+#              visibility: true
+#            - company_name: Microsoft
+#              company_logo: microsoft.png
+#              company_url: https://microsoft.com
+#              designation: Azure Developer
+#              description: Worked on various Azure Cloud Products
+#              visibility: true
 
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
+                college_name: 한경
                 college_url: https://mit.org
                 college_degree: CS Engineer
                 description: Bachelor of Technology
@@ -63,25 +63,25 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  johndoe
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+#twitter_username: johndoe
+github_username:  jieun-tech
+#facebook_username: johndoe
+#linkedin_username: johndoe
+#behance_username: johndoe
+#instagram_username: johndoe
+#medium_username: johndoe
+#telegram_username: johndoe
+#dribbble_username: johndoe
+#flickr_username: johndoe
 
 #for comments using disqus
 disqus_shortname: sujay-kundu  
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: jieun-tech
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: jieun.tech@gmail.com
 
 # syntax highlighter
 markdown: kramdown
@@ -92,7 +92,7 @@ permalink: pretty
 google_analytics: UA-46783401-10 
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences: false
 show_author_education_details: true
 show_author_project_details: true
 
